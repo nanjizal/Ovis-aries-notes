@@ -96,5 +96,5 @@ and finally, I simply added a div in corresponding gauge.component.html
   
 ![](https://stepbystepschools.net/wp-content/uploads/2016/11/DOM.png)
 
-Source ( https://stepbystepschools.net/?p=1088 purely included for personal educational use ).
+Diagram source ( https://stepbystepschools.net/?p=1088 purely included for personal educational use ).
 
