@@ -40,7 +40,7 @@ Then made sure to declare both linked directives in main index.html
 
 ```<script src="./externalJS/d3.v3.min.js"></script>
 <script src="./externalJS/d3gauge.js"></script>```
-
+```
 Then added a similar code in a gauge.component.ts component as followed:
 ```
 import { Component, OnInit } from '@angular/core';
