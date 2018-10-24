@@ -84,3 +84,14 @@ and finally, I simply added a div in corresponding gauge.component.html
 ```
 <div id="gaugeBox"></div>
 ```
+- Component Lifecyle hooks ( preface **'ng'** omitted for my clarity ) my interpretaion subject to change.
+  * **OnChanges** before onInit or when bound data changes.
+  * **OnInit** when component is created
+  * **DoCheck** called even if angular does not really care to do anything? and after OnInit. Examples needed
+  * **AfterContentInit** before creation of content
+  * **AfterContentChecked** once date is parsed properly
+  * **AfterViewInit** when sub components are created
+  * **AfterViewChecked** when sub components finished
+  * **OnDestroy** just before component is removed
+  
+![](https://stepbystepschools.net/wp-content/uploads/2016/11/DOM.png)
